@@ -1,6 +1,6 @@
-# sanskrit_text_jnu
+# sanskrit_text_jnu_tagged
 
-This repository holds the sanskrit corpus made available by:
+This repository holds the sanskrit tagged corpus made available by:
 
 The Computational Linguistics R&D at Special Centre for Sanskrit Studies J.N.U. http://sanskrit.jnu.ac.in/corpora/tagset.jsp
 
